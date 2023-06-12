@@ -1,4 +1,4 @@
-### Hi 👋. I'm Full Stack JavaScript SE | Node.js, AngularJS/2+
+### Hi 👋. I'm Node.js (JS, TS) | Rust SE
 
 <!--
 **SenDeliver/sendeliver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
